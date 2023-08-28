@@ -1,11 +1,11 @@
-# Santander Bootcamp 2023 | Explorando IA Generativa em um Pipeline de ETL com Python
+# Explorando IA Generativa em um Pipeline de ETL com Python
 
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
 
 ### Sobre:
 
-Projeto do Santander Bootcamp 2023 para a exploração de IA generativa em uma pipeline de ETL com Python.
+Projeto para a exploração de IA generativa em uma pipeline de ETL com Python.
 
 ### Proposta:
 
