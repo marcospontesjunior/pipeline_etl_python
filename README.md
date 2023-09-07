@@ -14,6 +14,7 @@ Este projeto visa aprimorar o envolvimento do cliente através da personalizaç�
 ### Estrutura do Repositório:
 - <strong>data:</strong> Encontrará o arquivo **.csv** com os dados utilizados para a análise.
 - <strong>notebook:</strong> Este diretório contém o notebook Jupyter onde a análise foi realizada e os resultados obtidos.
+- <strong>readme_translated:</strong>This repository contains the PDF with the report translated into English.
 
 ### Linguagem Utilizada:
 ###
